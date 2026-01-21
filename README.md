@@ -4,7 +4,7 @@
 
 # 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=FRONT-END+DEVELOPER;FUTURE+PENTESTER;JACK+IN+%2F%2F+JACK+OUT;BREAKING+SYSTEMS+LEGALLY" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=FRONT-END+DEVELOPER;FUTURE+PENTESTER;NETRUNNER;SACRED+LEGACY+OF+COPY+AND+PASTE" alt="Typing SVG" />
 
 </div>
 
