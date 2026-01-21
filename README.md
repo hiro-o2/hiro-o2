@@ -4,44 +4,24 @@
 
 # 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=FRONT-END+DEVELOPER;FUTURE+PENTESTER;JACK+IN+%2F%2F+JACK+OUT;BREAKING+SYSTEMS+LEGALLY" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=FRONT-END+DEVELOPER;FUTURE+PENTESTER;;BREAKING+SYSTEMS+LEGALLY" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## ⚡ SYSTEM.INIT
-
-```javascript
-const hiro = {
-    callSign: "Hiro_0*",
-    realName: "Jean-Mathieu",
-    class: "Netrunner",
-    current: {
-        role: "Front-End Developer",
-        status: "Student",
-        location: "Meatspace"
-    },
-    next: {
-        role: "Pentester",
-        sector: "Cybersecurity",
-        mission: "Hunt vulnerabilities"
-    },
-    motto: "In a world of 1s and 0s, be the exception",
-    skills: ["Code", "Exploit", "Survive"]
-};
-
-console.log(">>> SYSTEM ONLINE");
-```
-
 <div align="center">
-
-### 🔥 TRAJECTORY //
-
-**[CURRENT]** → Front-End Developer 💻  
-**[NEXT]** → Cybersecurity Specialist 🛡️  
-**[FINAL]** → Elite Pentester ⚔️
-
+📊 COMMIT ACTIVITY
+Afficher l'image
+</div>
+<div align="center">
+📈 METRICS🔥 DATATotal Commits (2024)Afficher l'imageTotal PRsAfficher l'imageTotal IssuesAfficher l'imageRepositoriesAfficher l'imageFollowersAfficher l'image
+</div>
+<div align="center">
+🔥 TRAJECTORY //
+[CURRENT] → Front-End Developer 💻
+[NEXT] → Cybersecurity Specialist 🛡️
+[FINAL] → Elite Pentester ⚔️
 </div>
 
 ---
