@@ -4,24 +4,42 @@
 
 # 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=FRONT-END+DEVELOPER;FUTURE+PENTESTER;;BREAKING+SYSTEMS+LEGALLY" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=FRONT-END+DEVELOPER;FUTURE+PENTESTER;JACK+IN+%2F%2F+JACK+OUT;BREAKING+SYSTEMS+LEGALLY" alt="Typing SVG" />
 
 </div>
 
 ---
 
+## ⚡ SYSTEM DASHBOARD
+
 <div align="center">
-📊 COMMIT ACTIVITY
-Afficher l'image
+
+### 📊 COMMIT ACTIVITY
+
+![GitHub Activity](https://ghchart.rshah.org/00ff41/hiro-o2)
+
 </div>
+
 <div align="center">
-📈 METRICS🔥 DATATotal Commits (2024)Afficher l'imageTotal PRsAfficher l'imageTotal IssuesAfficher l'imageRepositoriesAfficher l'imageFollowersAfficher l'image
+
+| 📈 METRICS | 🔥 DATA |
+|:---:|:---:|
+| **Total Commits (2024)** | ![Commits](https://img.shields.io/badge/dynamic/json?color=00ff41&label=commits&query=$.totalContributions&url=https://github-contributions-api.jogruber.de/v4/hiro-o2?y=2024&logo=github&style=flat-square) |
+| **Total PRs** | ![PRs](https://img.shields.io/github/issues-pr/hiro-o2/hiro-o2?color=00ff41&style=flat-square&logo=github) |
+| **Total Issues** | ![Issues](https://img.shields.io/github/issues/hiro-o2/hiro-o2?color=00ff41&style=flat-square&logo=github) |
+| **Repositories** | ![Repos](https://img.shields.io/badge/dynamic/json?color=00ff41&label=repos&query=$.public_repos&url=https://api.github.com/users/hiro-o2&logo=github&style=flat-square) |
+| **Followers** | ![Followers](https://img.shields.io/github/followers/hiro-o2?color=00ff41&style=flat-square&logo=github) |
+
 </div>
+
 <div align="center">
-🔥 TRAJECTORY //
-[CURRENT] → Front-End Developer 💻
-[NEXT] → Cybersecurity Specialist 🛡️
-[FINAL] → Elite Pentester ⚔️
+
+### 🔥 TRAJECTORY //
+
+**[CURRENT]** → Front-End Developer 💻  
+**[NEXT]** → Cybersecurity Specialist 🛡️  
+**[FINAL]** → Elite Pentester ⚔️
+
 </div>
 
 ---
@@ -57,14 +75,14 @@ Afficher l'image
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hiro_0&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiro_0&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiro-o2&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiro-o2&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41"/>
 
 </div>
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hiro_0&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hiro-o2&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
 
 </div>
 
@@ -74,7 +92,7 @@ Afficher l'image
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hiro_0&theme=github-compact&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hiro-o2&theme=github-compact&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41)
 
 </div>
 
@@ -84,14 +102,13 @@ Afficher l'image
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Hiro_0&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7&rank=-C,-B)
+![Trophy](https://github-profile-trophy.vercel.app/?username=hiro-o2&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7&rank=-C,-B)
 
 </div>
 
 ---
 
 ## 🎯 CURRENT MISSIONS // TRAINING
-
 ```bash
 [████████████████████░░░░] 75% - Web Pentesting Techniques
 [███████████████████████░] 95% - Python for Security
@@ -132,7 +149,7 @@ Afficher l'image
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hiro_0)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiro-o2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ton-profil)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ton-serveur)
@@ -144,20 +161,18 @@ Afficher l'image
 <div align="center">
 
 ### ⚡ SYSTEM MESSAGE
-
 ```
 > "You don't need chrome to be special. You need chrome to survive."
                                         - David Martinez
 ```
 
-![Visitor Count](https://profile-counter.glitch.me/Hiro_0/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/hiro-o2/count.svg)
 
 </div>
 
 ---
 
 <div align="center">
-
 ```
 ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗    ██████╗ ███╗   ██╗██╗     ██╗███╗   ██╗███████╗
 ██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║   ██╔═══██╗████╗  ██║██║     ██║████╗  ██║██╔════╝
@@ -169,6 +184,6 @@ Afficher l'image
 
 **[SYSTEM STATUS: ONLINE]** | **[UPTIME: MAXIMUM]** | **[THREAT LEVEL: NOOB → PRO]**
 
-⭐️ From [Hiro_0](https://github.com/Hiro_0) | **>> JACK IN <<**
+⭐️ From [hiro-o2](https://github.com/hiro-o2) | **>> JACK IN <<**
 
 </div>
