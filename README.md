@@ -14,43 +14,66 @@
 
 <div align="center">
 
-### 📊 COMMIT ACTIVITY
+### 📊 ME
 
-<p align="center">
-
-<img src="https://github.com/hiro-o2/hiro-o2/raw/main/assets/matrix-glitch.gif" width="1200"/>
-
-</p>
-
-<br>
-
-<h1 align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=29&duration=1800&pause=1000&color=2bdffb&center=true&vCenter=true&width=800&lines=Hey,+I'm+JM;Alias+Hiro..." /><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=1800&pause=1000&color=2bdffb&center=true&vCenter=true&width=700&lines=BackEnd+Developper;Soon%3A+Data+Engineer"/>
-
-</h1> <br>
-
-<br>
-
-<img src="./dist/github-contribution-grid-snake-dark.svg">
-
-<h2>
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=php,python,mysql,js,laravel,java,bash,git,github,vscode&theme=dark" /> </p>
-
-</h2>
-
-<br>
-
-<h2 align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=600&color=2bdffb&center=true&vCenter=true&width=750&lines=Think+like+a+machine." />
-
-</h2>
-
-</div>
 
 <div align="center">
+
+<svg width="100%" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="300" fill="#050d1a"/>
+  <line x1="0" y1="60" x2="800" y2="60" stroke="#0a3a5a" stroke-width="0.5"/>
+  <line x1="0" y1="120" x2="800" y2="120" stroke="#0a3a5a" stroke-width="0.5"/>
+  <line x1="0" y1="180" x2="800" y2="180" stroke="#0a3a5a" stroke-width="0.5"/>
+  <line x1="0" y1="240" x2="800" y2="240" stroke="#0a3a5a" stroke-width="0.5"/>
+  <line x1="80" y1="0" x2="80" y2="300" stroke="#0a3a5a" stroke-width="0.5"/>
+  <line x1="160" y1="0" x2="160" y2="300" stroke="#0a3a5a" stroke-width="0.5"/>
+  <line x1="240" y1="0" x2="240" y2="300" stroke="#0a3a5a" stroke-width="0.5"/>
+  <line x1="320" y1="0" x2="320" y2="300" stroke="#0a3a5a" stroke-width="0.5"/>
+  <line x1="400" y1="0" x2="400" y2="300" stroke="#0a3a5a" stroke-width="0.5"/>
+  <line x1="480" y1="0" x2="480" y2="300" stroke="#0a3a5a" stroke-width="0.5"/>
+  <line x1="560" y1="0" x2="560" y2="300" stroke="#0a3a5a" stroke-width="0.5"/>
+  <line x1="640" y1="0" x2="640" y2="300" stroke="#0a3a5a" stroke-width="0.5"/>
+  <line x1="720" y1="0" x2="720" y2="300" stroke="#0a3a5a" stroke-width="0.5"/>
+  <rect x="0" y="0" width="800" height="4" fill="#00d4ff" opacity="0.15"><animateTransform attributeName="transform" type="translate" values="0,0;0,296;0,0" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.15;0.35;0.15" dur="3s" repeatCount="indefinite"/></rect>
+  <line x1="-200" y1="100" x2="0" y2="100" stroke="#00d4ff" stroke-width="1.5"><animateTransform attributeName="transform" type="translate" values="-800,0;1600,0" dur="2.5s" repeatCount="indefinite"/></line>
+  <line x1="-200" y1="200" x2="0" y2="200" stroke="#7f77dd" stroke-width="1"><animateTransform attributeName="transform" type="translate" values="-800,0;1600,0" dur="3.5s" begin="1s" repeatCount="indefinite"/></line>
+  <line x1="-200" y1="150" x2="0" y2="150" stroke="#1d9e75" stroke-width="0.8"><animateTransform attributeName="transform" type="translate" values="-800,0;1600,0" dur="4.2s" begin="0.7s" repeatCount="indefinite"/></line>
+  <path d="M20,20 L20,8 L32,8" fill="none" stroke="#00d4ff" stroke-width="1.5"/>
+  <path d="M768,8 L780,8 L780,20" fill="none" stroke="#00d4ff" stroke-width="1.5"/>
+  <path d="M20,280 L20,292 L32,292" fill="none" stroke="#00d4ff" stroke-width="1.5"/>
+  <path d="M768,292 L780,292 L780,280" fill="none" stroke="#00d4ff" stroke-width="1.5"/>
+  <circle cx="20" cy="8" r="2" fill="#00d4ff"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="780" cy="8" r="2" fill="#00d4ff"><animate attributeName="opacity" values="1;0.2;1" dur="2s" begin="0.5s" repeatCount="indefinite"/></circle>
+  <circle cx="20" cy="292" r="2" fill="#00d4ff"><animate attributeName="opacity" values="1;0.2;1" dur="2s" begin="1s" repeatCount="indefinite"/></circle>
+  <circle cx="780" cy="292" r="2" fill="#00d4ff"><animate attributeName="opacity" values="1;0.2;1" dur="2s" begin="1.5s" repeatCount="indefinite"/></circle>
+  <text x="24" y="22" font-family="monospace" font-size="9" fill="#00d4ff" opacity="0.7">SYS::ONLINE</text>
+  <text x="670" y="22" font-family="monospace" font-size="9" fill="#1d9e75" opacity="0.7">STATUS: ACTIVE</text>
+  <circle cx="660" cy="18" r="3" fill="#1d9e75"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></circle>
+  <text x="400" y="118" font-family="monospace" font-size="42" font-weight="bold" fill="#00d4ff" text-anchor="middle" letter-spacing="8"><animate attributeName="opacity" values="1;0.85;1" dur="4s" repeatCount="indefinite"/>TONPSEUDO</text>
+  <text x="402" y="118" font-family="monospace" font-size="42" font-weight="bold" fill="#7f77dd" text-anchor="middle" letter-spacing="8" opacity="0">TONPSEUDO<animate attributeName="opacity" values="0;0;0;0.6;0;0;0;0;0.3;0" dur="5s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,0;3,0;-3,0;0,0" dur="5s" repeatCount="indefinite"/></text>
+  <text x="400" y="148" font-family="monospace" font-size="13" fill="#7f77dd" text-anchor="middle" letter-spacing="4">FULL STACK DEVELOPER</text>
+  <rect x="260" y="156" width="0" height="1" fill="#00d4ff"><animate attributeName="width" values="0;280;280;0" dur="3s" repeatCount="indefinite"/><animate attributeName="x" values="400;260;260;400" dur="3s" repeatCount="indefinite"/></rect>
+  <rect x="190" y="185" width="60" height="22" rx="2" fill="none" stroke="#00d4ff" stroke-width="0.8" opacity="0.6"><animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/></rect>
+  <text x="220" y="200" font-family="monospace" font-size="10" fill="#00d4ff" text-anchor="middle">REACT</text>
+  <rect x="262" y="185" width="60" height="22" rx="2" fill="none" stroke="#7f77dd" stroke-width="0.8" opacity="0.6"><animate attributeName="opacity" values="0.6;1;0.6" dur="2s" begin="0.4s" repeatCount="indefinite"/></rect>
+  <text x="292" y="200" font-family="monospace" font-size="10" fill="#7f77dd" text-anchor="middle">NODE</text>
+  <rect x="334" y="185" width="60" height="22" rx="2" fill="none" stroke="#1d9e75" stroke-width="0.8" opacity="0.6"><animate attributeName="opacity" values="0.6;1;0.6" dur="2s" begin="0.8s" repeatCount="indefinite"/></rect>
+  <text x="364" y="200" font-family="monospace" font-size="10" fill="#1d9e75" text-anchor="middle">PYTHON</text>
+  <rect x="406" y="185" width="60" height="22" rx="2" fill="none" stroke="#00d4ff" stroke-width="0.8" opacity="0.6"><animate attributeName="opacity" values="0.6;1;0.6" dur="2s" begin="1.2s" repeatCount="indefinite"/></rect>
+  <text x="436" y="200" font-family="monospace" font-size="10" fill="#00d4ff" text-anchor="middle">DOCKER</text>
+  <rect x="478" y="185" width="60" height="22" rx="2" fill="none" stroke="#7f77dd" stroke-width="0.8" opacity="0.6"><animate attributeName="opacity" values="0.6;1;0.6" dur="2s" begin="1.6s" repeatCount="indefinite"/></rect>
+  <text x="508" y="200" font-family="monospace" font-size="10" fill="#7f77dd" text-anchor="middle">AWS</text>
+  <text x="280" y="240" font-family="monospace" font-size="11" fill="#1d9e75"><animate attributeName="opacity" values="0;0;1;1;1;1;1;1;1;1;1;1;1;0" dur="8s" repeatCount="indefinite"/>&gt; initializing systems...</text>
+  <text x="280" y="240" font-family="monospace" font-size="11" fill="#00d4ff"><animate attributeName="opacity" values="0;0;0;0;0;0;1;1;1;1;1;0;0;0" dur="8s" repeatCount="indefinite"/>&gt; loading portfolio data...</text>
+  <text x="280" y="240" font-family="monospace" font-size="11" fill="#7f77dd"><animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0;1;1;0;0;0" dur="8s" repeatCount="indefinite"/>&gt; ready. welcome. _</text>
+  <rect x="524" y="228" width="8" height="13" fill="#1d9e75"><animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/><animate attributeName="fill" values="#1d9e75;#00d4ff;#7f77dd;#1d9e75" dur="8s" repeatCount="indefinite"/></rect>
+  <text x="32" y="80" font-family="monospace" font-size="8" fill="#0a3a5a">01001000</text><text x="32" y="100" font-family="monospace" font-size="8" fill="#0a3a5a">10110100</text><text x="32" y="120" font-family="monospace" font-size="8" fill="#0a3a5a">11001010</text><text x="32" y="140" font-family="monospace" font-size="8" fill="#0a3a5a">00101101</text><text x="32" y="160" font-family="monospace" font-size="8" fill="#0a3a5a">10010011</text><text x="32" y="180" font-family="monospace" font-size="8" fill="#0a3a5a">01110001</text><text x="32" y="200" font-family="monospace" font-size="8" fill="#0a3a5a">11100110</text><text x="32" y="220" font-family="monospace" font-size="8" fill="#0a3a5a">00011010</text>
+  <text x="730" y="80" font-family="monospace" font-size="8" fill="#0a3a5a">10110001</text><text x="730" y="100" font-family="monospace" font-size="8" fill="#0a3a5a">01001110</text><text x="730" y="120" font-family="monospace" font-size="8" fill="#0a3a5a">00111011</text><text x="730" y="140" font-family="monospace" font-size="8" fill="#0a3a5a">10100101</text><text x="730" y="160" font-family="monospace" font-size="8" fill="#0a3a5a">01011001</text><text x="730" y="180" font-family="monospace" font-size="8" fill="#0a3a5a">11010010</text><text x="730" y="200" font-family="monospace" font-size="8" fill="#0a3a5a">00101100</text><text x="730" y="220" font-family="monospace" font-size="8" fill="#0a3a5a">10001011</text>
+  <text x="24" y="288" font-family="monospace" font-size="9" fill="#0f6e56" opacity="0.7">v2.0.26 // BUILD::PROD</text>
+  <text x="620" y="288" font-family="monospace" font-size="9" fill="#534ab7" opacity="0.7">ENCRYPTED::TRUE</text>
+</svg>
+
+</div>
 
 | 📈 METRICS | 🔥 DATA |
 |:---:|:---:|
