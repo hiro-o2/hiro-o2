@@ -49,20 +49,20 @@
   <text x="24" y="22" font-family="monospace" font-size="9" fill="#00d4ff" opacity="0.7">SYS::ONLINE</text>
   <text x="670" y="22" font-family="monospace" font-size="9" fill="#1d9e75" opacity="0.7">STATUS: ACTIVE</text>
   <circle cx="660" cy="18" r="3" fill="#1d9e75"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></circle>
-  <text x="400" y="118" font-family="monospace" font-size="42" font-weight="bold" fill="#00d4ff" text-anchor="middle" letter-spacing="8"><animate attributeName="opacity" values="1;0.85;1" dur="4s" repeatCount="indefinite"/>TONPSEUDO</text>
-  <text x="402" y="118" font-family="monospace" font-size="42" font-weight="bold" fill="#7f77dd" text-anchor="middle" letter-spacing="8" opacity="0">TONPSEUDO<animate attributeName="opacity" values="0;0;0;0.6;0;0;0;0;0.3;0" dur="5s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,0;3,0;-3,0;0,0" dur="5s" repeatCount="indefinite"/></text>
+  <text x="400" y="118" font-family="monospace" font-size="42" font-weight="bold" fill="#00d4ff" text-anchor="middle" letter-spacing="8"><animate attributeName="opacity" values="1;0.85;1" dur="4s" repeatCount="indefinite"/>Hiro_0</text>
+  <text x="402" y="118" font-family="monospace" font-size="42" font-weight="bold" fill="#7f77dd" text-anchor="middle" letter-spacing="8" opacity="0">Hiro_O<animate attributeName="opacity" values="0;0;0;0.6;0;0;0;0;0.3;0" dur="5s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,0;3,0;-3,0;0,0" dur="5s" repeatCount="indefinite"/></text>
   <text x="400" y="148" font-family="monospace" font-size="13" fill="#7f77dd" text-anchor="middle" letter-spacing="4">FULL STACK DEVELOPER</text>
   <rect x="260" y="156" width="0" height="1" fill="#00d4ff"><animate attributeName="width" values="0;280;280;0" dur="3s" repeatCount="indefinite"/><animate attributeName="x" values="400;260;260;400" dur="3s" repeatCount="indefinite"/></rect>
   <rect x="190" y="185" width="60" height="22" rx="2" fill="none" stroke="#00d4ff" stroke-width="0.8" opacity="0.6"><animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/></rect>
-  <text x="220" y="200" font-family="monospace" font-size="10" fill="#00d4ff" text-anchor="middle">REACT</text>
+  <text x="220" y="200" font-family="monospace" font-size="10" fill="#00d4ff" text-anchor="middle">PHP</text>
   <rect x="262" y="185" width="60" height="22" rx="2" fill="none" stroke="#7f77dd" stroke-width="0.8" opacity="0.6"><animate attributeName="opacity" values="0.6;1;0.6" dur="2s" begin="0.4s" repeatCount="indefinite"/></rect>
-  <text x="292" y="200" font-family="monospace" font-size="10" fill="#7f77dd" text-anchor="middle">NODE</text>
+  <text x="292" y="200" font-family="monospace" font-size="10" fill="#7f77dd" text-anchor="middle">SQL</text>
   <rect x="334" y="185" width="60" height="22" rx="2" fill="none" stroke="#1d9e75" stroke-width="0.8" opacity="0.6"><animate attributeName="opacity" values="0.6;1;0.6" dur="2s" begin="0.8s" repeatCount="indefinite"/></rect>
   <text x="364" y="200" font-family="monospace" font-size="10" fill="#1d9e75" text-anchor="middle">PYTHON</text>
   <rect x="406" y="185" width="60" height="22" rx="2" fill="none" stroke="#00d4ff" stroke-width="0.8" opacity="0.6"><animate attributeName="opacity" values="0.6;1;0.6" dur="2s" begin="1.2s" repeatCount="indefinite"/></rect>
-  <text x="436" y="200" font-family="monospace" font-size="10" fill="#00d4ff" text-anchor="middle">DOCKER</text>
+  <text x="436" y="200" font-family="monospace" font-size="10" fill="#00d4ff" text-anchor="middle">CSS</text>
   <rect x="478" y="185" width="60" height="22" rx="2" fill="none" stroke="#7f77dd" stroke-width="0.8" opacity="0.6"><animate attributeName="opacity" values="0.6;1;0.6" dur="2s" begin="1.6s" repeatCount="indefinite"/></rect>
-  <text x="508" y="200" font-family="monospace" font-size="10" fill="#7f77dd" text-anchor="middle">AWS</text>
+  <text x="508" y="200" font-family="monospace" font-size="10" fill="#7f77dd" text-anchor="middle">HTML</text>
   <text x="280" y="240" font-family="monospace" font-size="11" fill="#1d9e75"><animate attributeName="opacity" values="0;0;1;1;1;1;1;1;1;1;1;1;1;0" dur="8s" repeatCount="indefinite"/>&gt; initializing systems...</text>
   <text x="280" y="240" font-family="monospace" font-size="11" fill="#00d4ff"><animate attributeName="opacity" values="0;0;0;0;0;0;1;1;1;1;1;0;0;0" dur="8s" repeatCount="indefinite"/>&gt; loading portfolio data...</text>
   <text x="280" y="240" font-family="monospace" font-size="11" fill="#7f77dd"><animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0;1;1;0;0;0" dur="8s" repeatCount="indefinite"/>&gt; ready. welcome. _</text>
