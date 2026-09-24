@@ -104,7 +104,7 @@ Simulations, game mechanics, algorithms and AI are some of the areas I enjoy exp
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JeanMathieu_DEV-_-hiro-o2&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=hiro-o2&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
 <br>
 
