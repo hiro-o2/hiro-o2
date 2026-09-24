@@ -4,7 +4,7 @@
 
 ### `Computer Science Student` · `Developer` · `Builder`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://jmlerda.btssio.corsica/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)](http://51.254.223.198/portfolio/jml/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/JMLerda)
 
 <br>
