@@ -79,18 +79,6 @@ Evaluation
 
 ---
 
-### 🌐 Web Projects
-
-I build web applications ranging from small experiments to complete projects involving:
-
-* Interfaces
-* Databases
-* APIs
-* Authentication
-* Dashboards
-* Full-stack development
-
----
 
 ### 🎮 Game & Simulation Projects
 
@@ -146,7 +134,6 @@ When I'm not coding, you'll probably find me:
 🎮 Playing video games
 🏋️ Training
 🥾 Hiking
-⚽ Playing football
 🎸 Playing guitar
 🎨 Drawing
 
